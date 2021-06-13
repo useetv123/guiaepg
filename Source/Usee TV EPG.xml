@@ -1,0 +1,619 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.7.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CNN Indonesia HD">
+    <display-name lang="id">CNN Indonesia HD</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/cnn_ind_bg.png" />
+    <url>http://www.transvision.co.id</url>
+  </channel>
+  <channel id="TRANS TV HD">
+    <display-name lang="id">TRANS TV HD</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/trans.png" />
+    <url>http://www.transvision.co.id</url>
+  </channel>
+  <channel id="TRANS7 HD">
+    <display-name lang="id">TRANS7 HD</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/trans7.png" />
+    <url>http://www.transvision.co.id</url>
+  </channel>
+  <programme start="20210613003000 +0700" stop="20210613013000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">CNN Indonesia News Cast</title>
+    <desc lang="id">Program berita ini menghadirkan topik pilihan tentang politik, ekonomi atau hal lain yang menjadi sorotan utama, bersama narasumber yang memberikan informasi secara akurat dan mendalam, serta laporan langsung oleh koresponden dari lokasi sumber berita.(n)</desc>
+  </programme>
+  <programme start="20210613013000 +0700" stop="20210613020000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">Indonesia Melawan Covid</title>
+    <desc lang="id">Berita terkini dan terupdate terkait Covid-19, Indonesia Melawan Covid.(n)</desc>
+  </programme>
+  <programme start="20210613020000 +0700" stop="20210613030000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">Redaksi Sore</title>
+    <desc lang="id">Menyajikan berita terkini yang sedang tren dan inspiratif, termasuk berita teknologi yang dekat dengan kehidupan sehari-hari. Program ini dikemas dalam format yang lebih ringan dan menghibur.(n)</desc>
+  </programme>
+  <programme start="20210613030000 +0700" stop="20210613040000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">Insight With Desi Anwar</title>
+    <desc lang="id">Program talk show yang mengangkat berbagai topik mulai dari politik, ekonomi, lingkungan dan tema lainnya yang dapat memberikan inspirasi. Dilengkapi dengan paket berita serta grafis visual yang menarik.(n)</desc>
+  </programme>
+  <programme start="20210613040000 +0700" stop="20210613050000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">The World Tonight</title>
+    <desc lang="id">Menyajikan rangkuman informasi sehari serta perkembangan terakhir beragam peristiwa, baik dari dalam negeri maupun mancanegara. Dikemas bersama informasi olahraga dan feature menarik untuk melengkapi kebutuhan informasi pemirsa sebelum menutup hari.y.(n)</desc>
+  </programme>
+  <programme start="20210613050000 +0700" stop="20210613060000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">CNN Indonesia Prime News</title>
+    <desc lang="id">CNN Indonesia Prime News menghadirkan topik pilihan seputar dunia politik, ekonomi, atau hal lain yang tengah menjadi sorotan utama. Tayangan dikemas dalam dialog yang lengkap bersama narasumber kompeten.(n)</desc>
+  </programme>
+  <programme start="20210613060000 +0700" stop="20210613070000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">Redaksi CNN Indonesia Pagi</title>
+    <desc lang="id">Menyajikan berita terkini yang sedang tren dan inspiratif, termasuk berita teknologi yang dekat dengan kehidupan sehari-hari. Program ini dikemas dalam format yang lebih ringan dan menghibur.(n)</desc>
+  </programme>
+  <programme start="20210613070000 +0700" stop="20210613073000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">Inside Indonesia</title>
+    <desc lang="id">Program yang mengeksplorasi sejumlah tradisi, ritual, dan budaya Indonesia. Inside Indonesia juga senantiasa menampilkan narasumber yang kredibel dan relevan.(n)</desc>
+  </programme>
+  <programme start="20210613073000 +0700" stop="20210613083000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">Good Morning</title>
+    <desc lang="id">Program yang menyajikan beragam informasi pilihan yang ringan dan menarik. Jangan lewatkan juga aneka kiat yang berguna untuk kehidupan sehari hari.(n)</desc>
+  </programme>
+  <programme start="20210613083000 +0700" stop="20210613093000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">Redaksi CNN Indonesia Pagi</title>
+    <desc lang="id">Menyajikan berita terkini yang sedang tren dan inspiratif, termasuk berita teknologi yang dekat dengan kehidupan sehari-hari. Program ini dikemas dalam format yang lebih ringan dan menghibur.(n)</desc>
+  </programme>
+  <programme start="20210613093000 +0700" stop="20210613103000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">Good Morning</title>
+    <desc lang="id">Program yang menyajikan beragam informasi pilihan yang ringan dan menarik. Jangan lewatkan juga aneka kiat yang berguna untuk kehidupan sehari hari.(n)</desc>
+  </programme>
+  <programme start="20210613103000 +0700" stop="20210613110000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">CNN Indonesia Tech News</title>
+    <desc lang="id">Jangan lewatkan berbagai informasi terkini dari dunia sains dan teknologi. Program ini menghadirkan liputan yang terpercaya dari koresponden Tech News, yang dikemas secara atraktif.(n)</desc>
+  </programme>
+  <programme start="20210613110000 +0700" stop="20210613123000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">CNN Indonesia News Hour</title>
+    <desc lang="id">Program ini mengeksplorasi budaya Indonesia, kearifan lokal, tradisi, ritual dan kehidupan masyarakat Indonesia. Diperkaya elemen audio visual menarik dan indah, menampilkan koresponden CNN Indonesia di lapangan dan narasumber yang kredibel dan relevan.(n)</desc>
+  </programme>
+  <programme start="20210613123000 +0700" stop="20210613130000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">CNN Indonesia Heroes</title>
+    <desc lang="id">CNN Indonesia Heroes adalah program penghargaan tahunan dari CNN Indonesia. Penghargaan ini diberikan kepada para individu yang senantiasa melakukan perubahan positif bagi masyarakat maupun lingkungan.(n)</desc>
+  </programme>
+  <programme start="20210613130000 +0700" stop="20210613133000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">CNN Indonesia Tech News</title>
+    <desc lang="id">Jangan lewatkan berbagai informasi terkini dari dunia sains dan teknologi. Program ini menghadirkan liputan yang terpercaya dari koresponden Tech News, yang dikemas secara atraktif.(n)</desc>
+  </programme>
+  <programme start="20210613133000 +0700" stop="20210613150000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">CNN Indonesia News Hour</title>
+    <desc lang="id">Program ini mengeksplorasi budaya Indonesia, kearifan lokal, tradisi, ritual dan kehidupan masyarakat Indonesia. Diperkaya elemen audio visual menarik dan indah, menampilkan koresponden CNN Indonesia di lapangan dan narasumber yang kredibel dan relevan.(n)</desc>
+  </programme>
+  <programme start="20210613150000 +0700" stop="20210613160000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">Redaksi Sore</title>
+    <desc lang="id">Menyajikan berita terkini yang sedang tren dan inspiratif, termasuk berita teknologi yang dekat dengan kehidupan sehari-hari. Program ini dikemas dalam format yang lebih ringan dan menghibur.(n)</desc>
+  </programme>
+  <programme start="20210613160000 +0700" stop="20210613180000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">CNN Indonesia Newsroom</title>
+    <desc lang="id">CNN Newsroom berisi informasi terkini dari dalam negeri dan mancanegara. Dilengkapi dengan laporan langsung koresponden dan bahasan dengan narasumber di studio, grafik pelengkap, touchscreen maupun immersive.(n)</desc>
+  </programme>
+  <programme start="20210613180000 +0700" stop="20210613190000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">Insight With Desi Anwar</title>
+    <desc lang="id">Program talk show yang mengangkat berbagai topik mulai dari politik, ekonomi, lingkungan dan tema lainnya yang dapat memberikan inspirasi. Dilengkapi dengan paket berita serta grafis visual yang menarik.(n)</desc>
+  </programme>
+  <programme start="20210613190000 +0700" stop="20210613193000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">CNN Indonesia Prime News</title>
+    <desc lang="id">CNN Indonesia Prime News menghadirkan topik pilihan seputar dunia politik, ekonomi, atau hal lain yang tengah menjadi sorotan utama. Tayangan dikemas dalam dialog yang lengkap bersama narasumber kompeten.(n)</desc>
+  </programme>
+  <programme start="20210613193000 +0700" stop="20210613210000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">CNN Indonesia News Cast</title>
+    <desc lang="id">Program berita ini menghadirkan topik pilihan tentang politik, ekonomi atau hal lain yang menjadi sorotan utama, bersama narasumber yang memberikan informasi secara akurat dan mendalam, serta laporan langsung oleh koresponden dari lokasi sumber berita.(n)</desc>
+  </programme>
+  <programme start="20210613210000 +0700" stop="20210613220000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">The World Tonight</title>
+    <desc lang="id">Menyajikan rangkuman informasi sehari serta perkembangan terakhir beragam peristiwa, baik dari dalam negeri maupun mancanegara. Dikemas bersama informasi olahraga dan feature menarik untuk melengkapi kebutuhan informasi pemirsa sebelum menutup hari.y.(n)</desc>
+  </programme>
+  <programme start="20210613220000 +0700" stop="20210613223000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">CNN Indonesia Prime News</title>
+    <desc lang="id">CNN Indonesia Prime News menghadirkan topik pilihan seputar dunia politik, ekonomi, atau hal lain yang tengah menjadi sorotan utama. Tayangan dikemas dalam dialog yang lengkap bersama narasumber kompeten.(n)</desc>
+  </programme>
+  <programme start="20210613223000 +0700" stop="20210614003000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">CNN Indonesia Newsroom</title>
+    <desc lang="id">CNN Newsroom berisi informasi terkini dari dalam negeri dan mancanegara. Dilengkapi dengan laporan langsung koresponden dan bahasan dengan narasumber di studio, grafik pelengkap, touchscreen maupun immersive.(n)</desc>
+  </programme>
+  <programme start="20210614003000 +0700" stop="20210614020000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">CNN Indonesia News Cast</title>
+    <desc lang="id">Program berita ini menghadirkan topik pilihan tentang politik, ekonomi atau hal lain yang menjadi sorotan utama, bersama narasumber yang memberikan informasi secara akurat dan mendalam, serta laporan langsung oleh koresponden dari lokasi sumber berita.(n)</desc>
+  </programme>
+  <programme start="20210614020000 +0700" stop="20210614030000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">Redaksi Sore</title>
+    <desc lang="id">Menyajikan berita terkini yang sedang tren dan inspiratif, termasuk berita teknologi yang dekat dengan kehidupan sehari-hari. Program ini dikemas dalam format yang lebih ringan dan menghibur.(n)</desc>
+  </programme>
+  <programme start="20210614030000 +0700" stop="20210614040000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">Insight With Desi Anwar</title>
+    <desc lang="id">Program talk show yang mengangkat berbagai topik mulai dari politik, ekonomi, lingkungan dan tema lainnya yang dapat memberikan inspirasi. Dilengkapi dengan paket berita serta grafis visual yang menarik.(n)</desc>
+  </programme>
+  <programme start="20210614040000 +0700" stop="20210614050000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">The World Tonight</title>
+    <desc lang="id">Menyajikan rangkuman informasi sehari serta perkembangan terakhir beragam peristiwa, baik dari dalam negeri maupun mancanegara. Dikemas bersama informasi olahraga dan feature menarik untuk melengkapi kebutuhan informasi pemirsa sebelum menutup hari.y.(n)</desc>
+  </programme>
+  <programme start="20210614050000 +0700" stop="20210614053000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">Inside Indonesia</title>
+    <desc lang="id">Program yang mengeksplorasi sejumlah tradisi, ritual, dan budaya Indonesia. Inside Indonesia juga senantiasa menampilkan narasumber yang kredibel dan relevan.(n)</desc>
+  </programme>
+  <programme start="20210614053000 +0700" stop="20210614060000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">CNN Indonesia Prime News</title>
+    <desc lang="id">CNN Indonesia Prime News menghadirkan topik pilihan seputar dunia politik, ekonomi, atau hal lain yang tengah menjadi sorotan utama. Tayangan dikemas dalam dialog yang lengkap bersama narasumber kompeten.(n)</desc>
+  </programme>
+  <programme start="20210614060000 +0700" stop="20210614070000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">Redaksi CNN Indonesia Pagi</title>
+    <desc lang="id">Menyajikan berita terkini yang sedang tren dan inspiratif, termasuk berita teknologi yang dekat dengan kehidupan sehari-hari. Program ini dikemas dalam format yang lebih ringan dan menghibur.(n)</desc>
+  </programme>
+  <programme start="20210614070000 +0700" stop="20210614073000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">World Now</title>
+    <desc lang="id">Program berita internasional yang merekam peristiwa-peristiwa yang terjadi di dunia hingga saat ini.(n)</desc>
+  </programme>
+  <programme start="20210614073000 +0700" stop="20210614083000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">Good Morning</title>
+    <desc lang="id">Program yang menyajikan beragam informasi pilihan yang ringan dan menarik. Jangan lewatkan juga aneka kiat yang berguna untuk kehidupan sehari hari.(n)</desc>
+  </programme>
+  <programme start="20210614083000 +0700" stop="20210614100000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">CNN Indonesia Today</title>
+    <desc lang="id">CNN Indonesia Today merupakan program berita pagi yang menyajikan berbagai kejadian di malam sebelumnya. Acara ini juga menampilkan intisari dari peristiwa-peristiwa penting sehari sebelumnya.(n)</desc>
+  </programme>
+  <programme start="20210614100000 +0700" stop="20210614104500 +0700" channel="CNN Indonesia HD">
+    <title lang="id">After 10</title>
+    <desc lang="id">Program After 10 menyajikan beragam informasi terkini yang dibawakan dengan gaya yang lebih santai. Dilengkapi dengan grafis dan laporan langsung oleh koresponden CNN Indonesia. Program ini juga membahas isu lain seperti masalah wanita dan lingkungan.(n)</desc>
+  </programme>
+  <programme start="20210614104500 +0700" stop="20210614113000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">Redaksi CNN Indonesia Siang</title>
+    <desc lang="id">Menyajikan berita terkini yang sedang tren dan inspiratif, termasuk berita teknologi yang dekat dengan kehidupan sehari-hari. Program ini dikemas dalam format yang lebih ringan dan menghibur.(n)</desc>
+  </programme>
+  <programme start="20210614113000 +0700" stop="20210614134500 +0700" channel="CNN Indonesia HD">
+    <title lang="id">CNN Indonesia News Hour</title>
+    <desc lang="id">Program ini mengeksplorasi budaya Indonesia, kearifan lokal, tradisi, ritual dan kehidupan masyarakat Indonesia. Diperkaya elemen audio visual menarik dan indah, menampilkan koresponden CNN Indonesia di lapangan dan narasumber yang kredibel dan relevan.(n)</desc>
+  </programme>
+  <programme start="20210614134500 +0700" stop="20210614144500 +0700" channel="CNN Indonesia HD">
+    <title lang="id">Redaksi</title>
+    <desc lang="id">Menyajikan berita terkini yang sedang tren dan inspiratif, termasuk berita teknologi yang dekat dengan kehidupan sehari-hari. Program ini dikemas dalam format yang lebih ringan dan menghibur.(n)</desc>
+  </programme>
+  <programme start="20210614144500 +0700" stop="20210614151500 +0700" channel="CNN Indonesia HD">
+    <title lang="id">CNN Indonesia Heroes</title>
+    <desc lang="id">CNN Indonesia Heroes adalah program penghargaan tahunan dari CNN Indonesia. Penghargaan ini diberikan kepada para individu yang senantiasa melakukan perubahan positif bagi masyarakat maupun lingkungan.(n)</desc>
+  </programme>
+  <programme start="20210614151500 +0700" stop="20210614154500 +0700" channel="CNN Indonesia HD">
+    <title lang="id">CNN Indonesia Tech News</title>
+    <desc lang="id">Jangan lewatkan berbagai informasi terkini dari dunia sains dan teknologi. Program ini menghadirkan liputan yang terpercaya dari koresponden Tech News, yang dikemas secara atraktif.(n)</desc>
+  </programme>
+  <programme start="20210614154500 +0700" stop="20210614160000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">News Flash</title>
+    <desc lang="id">Menyajikan informasi serta perkembangan terakhir beragam peristiwa untuk melengkapi kebutuhan informasi pemirsa tersaji dalam News Flash.(n)</desc>
+  </programme>
+  <programme start="20210614160000 +0700" stop="20210614170000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">CNN Indonesia News Update</title>
+    <desc lang="id">Berita dan Informasi terbaru yang disajikan secara tepat dan akurat dari berbagai lokasi di seluruh Indonesia.(n)</desc>
+  </programme>
+  <programme start="20210614170000 +0700" stop="20210614180000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">CNN Indonesia Newsroom</title>
+    <desc lang="id">CNN Newsroom berisi informasi terkini dari dalam negeri dan mancanegara. Dilengkapi dengan laporan langsung koresponden dan bahasan dengan narasumber di studio, grafik pelengkap, touchscreen maupun immersive.(n)</desc>
+  </programme>
+  <programme start="20210614180000 +0700" stop="20210614190000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">CNN Indonesia Connected</title>
+    <desc lang="id">CNN Indonesia Connected menyoroti beragam topik yang ramai diperbincangkan di media sosial. Program ini juga dilengkapi dengan wawancara dengan narasumber terkait dan mengundang partisipasi masyarakat untuk berpendapat melalui media sosial.(n)</desc>
+  </programme>
+  <programme start="20210614190000 +0700" stop="20210614193000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">CNN Indonesia Prime News</title>
+    <desc lang="id">CNN Indonesia Prime News menghadirkan topik pilihan seputar dunia politik, ekonomi, atau hal lain yang tengah menjadi sorotan utama. Tayangan dikemas dalam dialog yang lengkap bersama narasumber kompeten.(n)</desc>
+  </programme>
+  <programme start="20210614193000 +0700" stop="20210614210000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">Blocking Program</title>
+    <sub-title lang="id">Launching Asus Rog Phone 5 Series</sub-title>
+    <desc lang="id">Jangan lewatkan peluncuran Asus ROG Phone 5 series yang bakal masuk ke pasar Indonesia, ponsel ini akan menjadi penerus dari smartphone gaming ROG Phone 2 dan ROG Phone 3 yang diluncurkan Asus sebelumnya.(n)</desc>
+  </programme>
+  <programme start="20210614210000 +0700" stop="20210614220000 +0700" channel="CNN Indonesia HD">
+    <title lang="id">The World Tonight</title>
+    <desc lang="id">Menyajikan rangkuman informasi sehari serta perkembangan terakhir beragam peristiwa, baik dari dalam negeri maupun mancanegara. Dikemas bersama informasi olahraga dan feature menarik untuk melengkapi kebutuhan informasi pemirsa sebelum menutup hari.y.(n)</desc>
+  </programme>
+  <programme start="20210613013000 +0700" stop="20210613020000 +0700" channel="TRANS TV HD">
+    <title lang="id">CNN Tech News</title>
+    <desc lang="id">CNN Indonesia Tech News adalah berita teknologi yang membawa pemirsa ke dunia teknologi yang penuh dengan informasi, pendidikan, hiburan sampai informasi kesehatan terkini.(n)</desc>
+  </programme>
+  <programme start="20210613020000 +0700" stop="20210613022000 +0700" channel="TRANS TV HD">
+    <title lang="id">Tanpa Batas - The Yellow Driver World Record Jump</title>
+    <desc lang="id">Tanpa Batas adalah program yang mengungkapkan berbagai hal unik di luar nalar manusia.(n)</desc>
+  </programme>
+  <programme start="20210613022000 +0700" stop="20210613032000 +0700" channel="TRANS TV HD">
+    <title lang="id">Sky Castle</title>
+    <desc lang="id">SKY Castle mengisahkan kehidupan 4 wanita yang tinggal di lingkungan SKY Castle yang mewah. Mereka berusaha membuat suami mereka lebih sukses dan membesarkan anak-anak mereka bak pangeran dan tuan putri.(n)</desc>
+  </programme>
+  <programme start="20210613032000 +0700" stop="20210613040000 +0700" channel="TRANS TV HD">
+    <title lang="id">Angel's Last Mission</title>
+    <sub-title lang="id">Love</sub-title>
+    <desc lang="id">Malaikat bermasalah bernama Dan harus menemukan cinta untuk balerina Yeonseo agar dia dapat kembali ke surga, tapi Dan justru jatuh cinta pada Yeonseo.(n)</desc>
+  </programme>
+  <programme start="20210613040000 +0700" stop="20210613050000 +0700" channel="TRANS TV HD">
+    <title lang="id">Angel's Last Mission</title>
+    <sub-title lang="id">Love</sub-title>
+    <desc lang="id">Malaikat bermasalah bernama Dan harus menemukan cinta untuk balerina Yeonseo agar dia dapat kembali ke surga, tapi Dan justru jatuh cinta pada Yeonseo.(n)</desc>
+  </programme>
+  <programme start="20210613050000 +0700" stop="20210613063000 +0700" channel="TRANS TV HD">
+    <title lang="id">Islam Itu Indah</title>
+    <desc lang="id">Islam Itu Indah adalah program religius dengan konsep khotbah yang membahas masalah kehidupan berdasarkan agama Islam. Topiknya beragam, seperti bakti kepada orang tua, kewajiban antara suami dan istri, dan kehidupan setelah mati.(n)</desc>
+  </programme>
+  <programme start="20210613063000 +0700" stop="20210613073000 +0700" channel="TRANS TV HD">
+    <title lang="id">Insert Pagi</title>
+    <desc lang="id">Insert merupakan program infotainment yang akan menghadirkan beragam liputan kejadian seputar dunia selebriti yang dikemas secara apik dan menarik sebagai sumber informasi utama bagi para penggemar infotainment.(n)</desc>
+  </programme>
+  <programme start="20210613073000 +0700" stop="20210613083000 +0700" channel="TRANS TV HD">
+    <title lang="id">Good Morning Weekend</title>
+    <desc lang="id">CNN Indonesia Good Morning adalah program yang akan memberi informasi terkini, tempat-tempat menarik, dan juga mempromosikan pengrajin kecil.(n)</desc>
+  </programme>
+  <programme start="20210613083000 +0700" stop="20210613100000 +0700" channel="TRANS TV HD">
+    <title lang="id">Sinema Spesial Pagi</title>
+    <desc lang="id">Sinema Spesial Pagi adalah film layar lebar yang menghadirkan sederet film ternama produksi dalam dan luar negeri yang akan menemani Anda dengan menghadirkan tontonan yang mengasyikan.(n)</desc>
+  </programme>
+  <programme start="20210613100000 +0700" stop="20210613103000 +0700" channel="TRANS TV HD">
+    <title lang="id">Ibu Pintar</title>
+    <desc lang="id">Ibu Pintar adalah program yang menayangkan tentang cara seorang ibu menerapkan kebiasaan kepada anak dalam berpola hidup teratur dan pola makan sehat pada anak mereka.(n)</desc>
+  </programme>
+  <programme start="20210613103000 +0700" stop="20210613110000 +0700" channel="TRANS TV HD">
+    <title lang="id">Nyonya Boss</title>
+    <desc lang="id">Mengintip langsung keseharian dan kesibukan Nia Ramadhani yang cantik dan heboh. Mulai dari pagi sampai malam hari, setiap aktivitas, keseruan, ketegangan, kelucuan dan kehebohan yang terjadi selama beraktivitas.(n)</desc>
+  </programme>
+  <programme start="20210613110000 +0700" stop="20210613113000 +0700" channel="TRANS TV HD">
+    <title lang="id">Nih Kita Kepo</title>
+    <desc lang="id">Nih Kita Kepo, Nikita Mirzani banyak menemui selebriti lainnya dan mengorek info atau gosip yang beredar.(n)</desc>
+  </programme>
+  <programme start="20210613113000 +0700" stop="20210613123000 +0700" channel="TRANS TV HD">
+    <title lang="id">Insert</title>
+    <desc lang="id">Insert merupakan program infotainment yang akan menghadirkan beragam liputan kejadian seputar dunia selebriti yang dikemas secara apik dan menarik sebagai sumber informasi utama bagi para penggemar infotainment.(n)</desc>
+  </programme>
+  <programme start="20210613123000 +0700" stop="20210613133000 +0700" channel="TRANS TV HD">
+    <title lang="id">Brownis Jalan - Jalan</title>
+    <desc lang="id">Saksikan keseruan dan kejenakaan Ruben, Ivan Gunawan bersama kawan-kawan nya dalam melewati akhir pekan mereka.(n)</desc>
+  </programme>
+  <programme start="20210613133000 +0700" stop="20210613140000 +0700" channel="TRANS TV HD">
+    <title lang="id">Masak Masak</title>
+    <desc lang="id">Saksikan program yang menyuguhkan cara memasak beragam menu kuliner lezat serta favorit keluarga Indonesia dengan gaya Millenial.(n)</desc>
+  </programme>
+  <programme start="20210613140000 +0700" stop="20210613150000 +0700" channel="TRANS TV HD">
+    <title lang="id">Diary The Onsu</title>
+    <desc lang="id">Diary The Onsu, Program yang menyajikan keseharian aktifitas dari Ruben Onsu dan keluarga.(n)</desc>
+  </programme>
+  <programme start="20210613150000 +0700" stop="20210613153000 +0700" channel="TRANS TV HD">
+    <title lang="id">Hangout With Andre</title>
+    <desc lang="id">Mengintip langsung keseharian dan kesibukan Andre Taulany yang penuh dengan kejenakaan. Di rumah, di jalan maupun saat berkunjung ke rumah selebriti lain. Mulai dari yang seru, lucu, konyol dan heboh tentunya, tak ada yang luput dari kamera kami.(n)</desc>
+  </programme>
+  <programme start="20210613153000 +0700" stop="20210613160000 +0700" channel="TRANS TV HD">
+    <title lang="id">KZL</title>
+    <desc lang="id">KZL, Acara ini diangkat berdasarkan dari pembawaan dan sifat manusia sehari-hari. Dalam kegiatan atau beraktivitas sehari-hari, mungkin ada tindakan atau perkataan seseorang yang bikin kesal atau marah yang lainnya.(n)</desc>
+  </programme>
+  <programme start="20210613160000 +0700" stop="20210613170000 +0700" channel="TRANS TV HD">
+    <title lang="id">Janji Suci Raffi &amp; Gigi</title>
+    <desc lang="id">Janji Suci merupakan program reality show yang mengisahkan kehidupan pasangan selebriti Raffi Ahmad dan Nagita Slavina.(n)</desc>
+  </programme>
+  <programme start="20210613170000 +0700" stop="20210613180000 +0700" channel="TRANS TV HD">
+    <title lang="id">Bikin Laper Weekend</title>
+    <desc lang="id">Program kuliner yang menyajikan wisata kuliner dengan mencicipi makanan-makanan unik dari penjuru nusantara.(n)</desc>
+  </programme>
+  <programme start="20210613180000 +0700" stop="20210613190000 +0700" channel="TRANS TV HD">
+    <title lang="id">Insert Investigasi</title>
+    <desc lang="id">Insert merupakan program infotainment yang akan menghadirkan beragam liputan kejadian seputar dunia selebriti yang dikemas secara apik dan menarik sebagai sumber informasi utama bagi para penggemar infotainment.(n)</desc>
+  </programme>
+  <programme start="20210613190000 +0700" stop="20210613193000 +0700" channel="TRANS TV HD">
+    <title lang="id">CNN Indonesia Prime News</title>
+    <desc lang="id">CNN Indonesia Prime News menghadirkan topik pilihan seputar dunia politik, ekonomi, atau hal lain yang tengah menjadi sorotan utama. Tayangan dikemas dalam dialog yang lengkap bersama narasumber kompeten.(n)</desc>
+  </programme>
+  <programme start="20210613193000 +0700" stop="20210613213000 +0700" channel="TRANS TV HD">
+    <title lang="id">Bioskop Spesial TRANSTV - A.X.L</title>
+    <desc lang="id">Bioskop TRANSTV adalah film layar lebar yang menghadirkan sederet film ternama produksi dalam dan luar negeri yang akan memeriahkan malam hari Anda dengan menghadirkan tontonan yang mengasyikan.(n)</desc>
+  </programme>
+  <programme start="20210613213000 +0700" stop="20210613233000 +0700" channel="TRANS TV HD">
+    <title lang="id">Bioskop TRANSTV - ROBIN HOOD (2018)</title>
+    <desc lang="id">Bioskop TRANSTV adalah film layar lebar yang menghadirkan sederet film ternama produksi dalam dan luar negeri yang akan memeriahkan malam hari Anda dengan menghadirkan tontonan yang mengasyikan.(n)</desc>
+  </programme>
+  <programme start="20210613233000 +0700" stop="20210614013000 +0700" channel="TRANS TV HD">
+    <title lang="id">Bioskop Spesial TRANSTV - THREE KINGDOMS</title>
+    <desc lang="id">Bioskop TRANSTV adalah film layar lebar yang menghadirkan sederet film ternama produksi dalam dan luar negeri yang akan memeriahkan malam hari Anda dengan menghadirkan tontonan yang mengasyikan.(n)</desc>
+  </programme>
+  <programme start="20210614013000 +0700" stop="20210614020000 +0700" channel="TRANS TV HD">
+    <title lang="id">CNN Tech News</title>
+    <desc lang="id">CNN Indonesia Tech News adalah berita teknologi yang membawa pemirsa ke dunia teknologi yang penuh dengan informasi, pendidikan, hiburan sampai informasi kesehatan terkini.(n)</desc>
+  </programme>
+  <programme start="20210614020000 +0700" stop="20210614022000 +0700" channel="TRANS TV HD">
+    <title lang="id">Tanpa Batas - Base Jump ECW Ponferada</title>
+    <desc lang="id">Tanpa Batas adalah program yang mengungkapkan berbagai hal unik di luar nalar manusia.(n)</desc>
+  </programme>
+  <programme start="20210614022000 +0700" stop="20210614032000 +0700" channel="TRANS TV HD">
+    <title lang="id">Sky Castle</title>
+    <desc lang="id">SKY Castle mengisahkan kehidupan 4 wanita yang tinggal di lingkungan SKY Castle yang mewah. Mereka berusaha membuat suami mereka lebih sukses dan membesarkan anak-anak mereka bak pangeran dan tuan putri.(n)</desc>
+  </programme>
+  <programme start="20210614032000 +0700" stop="20210614042000 +0700" channel="TRANS TV HD">
+    <title lang="id">Angel's Last Mission</title>
+    <sub-title lang="id">Love</sub-title>
+    <desc lang="id">Malaikat bermasalah bernama Dan harus menemukan cinta untuk balerina Yeonseo agar dia dapat kembali ke surga, tapi Dan justru jatuh cinta pada Yeonseo.(n)</desc>
+  </programme>
+  <programme start="20210614042000 +0700" stop="20210614050000 +0700" channel="TRANS TV HD">
+    <title lang="id">Angel's Last Mission</title>
+    <sub-title lang="id">Love</sub-title>
+    <desc lang="id">Malaikat bermasalah bernama Dan harus menemukan cinta untuk balerina Yeonseo agar dia dapat kembali ke surga, tapi Dan justru jatuh cinta pada Yeonseo.(n)</desc>
+  </programme>
+  <programme start="20210614050000 +0700" stop="20210614063000 +0700" channel="TRANS TV HD">
+    <title lang="id">Islam Itu Indah</title>
+    <desc lang="id">Islam Itu Indah adalah program religius dengan konsep khotbah yang membahas masalah kehidupan berdasarkan agama Islam. Topiknya beragam, seperti bakti kepada orang tua, kewajiban antara suami dan istri, dan kehidupan setelah mati.(n)</desc>
+  </programme>
+  <programme start="20210614063000 +0700" stop="20210614073000 +0700" channel="TRANS TV HD">
+    <title lang="id">Insert Pagi</title>
+    <desc lang="id">Insert merupakan program infotainment yang akan menghadirkan beragam liputan kejadian seputar dunia selebriti yang dikemas secara apik dan menarik sebagai sumber informasi utama bagi para penggemar infotainment.(n)</desc>
+  </programme>
+  <programme start="20210614073000 +0700" stop="20210614083000 +0700" channel="TRANS TV HD">
+    <title lang="id">CNN Indonesia Good Morning</title>
+    <desc lang="id">CNN Indonesia Good Morning adalah program yang akan memberi informasi terkini, tempat-tempat menarik, dan juga mempromosikan pengrajin kecil.(n)</desc>
+  </programme>
+  <programme start="20210614083000 +0700" stop="20210614100000 +0700" channel="TRANS TV HD">
+    <title lang="id">Pagi-Pagi Ambyar</title>
+    <desc lang="id">Ragam program yang akan menghadirkan pembicara dan memberikan informasi terkait gosip atau rumor terbaru tentang diri mereka.(n)</desc>
+  </programme>
+  <programme start="20210614100000 +0700" stop="20210614113000 +0700" channel="TRANS TV HD">
+    <title lang="id">Kopi Viral</title>
+    <desc lang="id">Program variety yang akan menghadirkan para narasumber dan memberikan informasi terkait gosip atau rumor terbaru tentang diri mereka.(n)</desc>
+  </programme>
+  <programme start="20210614113000 +0700" stop="20210614123000 +0700" channel="TRANS TV HD">
+    <title lang="id">Insert</title>
+    <desc lang="id">Insert merupakan program infotainment yang akan menghadirkan beragam liputan kejadian seputar dunia selebriti yang dikemas secara apik dan menarik sebagai sumber informasi utama bagi para penggemar infotainment.(n)</desc>
+  </programme>
+  <programme start="20210614123000 +0700" stop="20210614140000 +0700" channel="TRANS TV HD">
+    <title lang="id">Brownis - Obrowlan Manis</title>
+    <desc lang="id">Brownis atau obrolan manis merupakan program talkshow segar yang dipandu oleh Ruben Onsu bersama Ivan Gunawan.(n)</desc>
+  </programme>
+  <programme start="20210614140000 +0700" stop="20210614150000 +0700" channel="TRANS TV HD">
+    <title lang="id">Rumpi 'No Secret'</title>
+    <desc lang="id">Ingin tahu rahasia yang paling personal dari artis idola kamu? Tonton terus Rumpi No Secret, sebuah talk show santai yang memancing para bintang tamunya untuk bicara blak-blakan tentang kehidupan pribadi mereka.(n)</desc>
+  </programme>
+  <programme start="20210614150000 +0700" stop="20210614160000 +0700" channel="TRANS TV HD">
+    <title lang="id">Insert Today</title>
+    <desc lang="id">Insert merupakan program infotainment yang akan menghadirkan beragam liputan kejadian seputar dunia selebriti yang dikemas secara apik dan menarik sebagai sumber informasi utama bagi para penggemar infotainment.(n)</desc>
+  </programme>
+  <programme start="20210614160000 +0700" stop="20210614170000 +0700" channel="TRANS TV HD">
+    <title lang="id">CNN Indonesia News Update</title>
+    <desc lang="id">Berita dan Informasi terbaru yang disajikan secara tepat dan akurat dari berbagai lokasi di seluruh Indonesia.(n)</desc>
+  </programme>
+  <programme start="20210614170000 +0700" stop="20210614180000 +0700" channel="TRANS TV HD">
+    <title lang="id">Bikin Laper</title>
+    <desc lang="id">Program kuliner yang menyajikan wisata kuliner dengan mencicipi makanan-makanan unik dari penjuru nusantara.(n)</desc>
+  </programme>
+  <programme start="20210614180000 +0700" stop="20210614190000 +0700" channel="TRANS TV HD">
+    <title lang="id">Insert Story</title>
+    <desc lang="id">Insert merupakan program infotainment yang akan menghadirkan beragam liputan kejadian seputar dunia selebriti yang dikemas secara apik dan menarik sebagai sumber informasi utama bagi para penggemar infotainment.(n)</desc>
+  </programme>
+  <programme start="20210614190000 +0700" stop="20210614193000 +0700" channel="TRANS TV HD">
+    <title lang="id">CNN Indonesia Prime News</title>
+    <desc lang="id">CNN Indonesia Prime News menghadirkan topik pilihan seputar dunia politik, ekonomi, atau hal lain yang tengah menjadi sorotan utama. Tayangan dikemas dalam dialog yang lengkap bersama narasumber kompeten.(n)</desc>
+  </programme>
+  <programme start="20210614193000 +0700" stop="20210614213000 +0700" channel="TRANS TV HD">
+    <title lang="id">Bioskop Spesial TRANSTV -  PREMIUM RUSH</title>
+    <desc lang="id">Bioskop TRANSTV adalah film layar lebar yang menghadirkan sederet film ternama produksi dalam dan luar negeri yang akan memeriahkan malam hari Anda dengan menghadirkan tontonan yang mengasyikan.(n)</desc>
+  </programme>
+  <programme start="20210613003000 +0700" stop="20210613023000 +0700" channel="TRANS7 HD">
+    <title lang="id">K-Movievaganza</title>
+    <sub-title lang="id">Taegukgi</sub-title>
+    <desc lang="id">K-Movievaganza adalah Program acara layar lebar yang menghadirkan sederet film ternama produksi dalam dan luar negeri yang akan memeriahkan malam hari Anda dengan menghadirkan tontonan yang mengasyikan.(n)</desc>
+  </programme>
+  <programme start="20210613023000 +0700" stop="20210613040000 +0700" channel="TRANS7 HD">
+    <title lang="id">Theater</title>
+    <sub-title lang="id">Nerve</sub-title>
+    <desc lang="id">Theater Malam adalah film layar lebar yang menghadirkan sederet film ternama produksi dalam dan luar negeri yang akan memeriahkan malam hari Anda dengan menghadirkan tontonan yang mengasyikan.(n)</desc>
+  </programme>
+  <programme start="20210613040000 +0700" stop="20210613043000 +0700" channel="TRANS7 HD">
+    <title lang="id">Kingdom Force</title>
+    <desc lang="id">Program seria animasi yang mengisahkan petualangan seru superhero.(n)</desc>
+  </programme>
+  <programme start="20210613043000 +0700" stop="20210613050000 +0700" channel="TRANS7 HD">
+    <title lang="id">Panda Pet Vet</title>
+    <desc lang="id">Berbagai animasi yang sudah sangat familiar di kalangan anak-anak akan menyajikan berbagai kisah petualangan yang seru dan lucu.(n)</desc>
+  </programme>
+  <programme start="20210613050000 +0700" stop="20210613053000 +0700" channel="TRANS7 HD">
+    <title lang="id">Kisah Para Nabi</title>
+    <desc lang="id">Program serial animasi yang mengisahkan tentang para Nabi. Diceritakan dengan narasi dan lengkap dengan ayat-ayat.(n)</desc>
+  </programme>
+  <programme start="20210613053000 +0700" stop="20210613060000 +0700" channel="TRANS7 HD">
+    <title lang="id">Hikmah</title>
+    <desc lang="id">Apa yang terjadi saat ini, pernah terjadi juga dalam sejarah islam. Hikmah menguji pengetahuan kita akan islam serta meraih tips untuk diterapkan dalam keseharian.(n)</desc>
+  </programme>
+  <programme start="20210613060000 +0700" stop="20210613070000 +0700" channel="TRANS7 HD">
+    <title lang="id">Redaksi Pagi Akhir Pekan</title>
+    <desc lang="id">Redaksi Pagi adalah program berita yang mencakup berita, politik, ekonomi, sosial, teknologi, hiburan serta berbagai peristiwa menarik lainnya yang terjadi dari dalam dan luar negeri.(n)</desc>
+  </programme>
+  <programme start="20210613070000 +0700" stop="20210613080000 +0700" channel="TRANS7 HD">
+    <title lang="id">Selebrita Pagi On The Weekend</title>
+    <desc lang="id">Selebrita Pagi menyajikan beragam info terkini dari dunia selebritas. Dengan materi eksklusif dan sudut pandang yang tajam, inilah acara yang tepat untuk menemani pagi Anda.(n)</desc>
+  </programme>
+  <programme start="20210613080000 +0700" stop="20210613083000 +0700" channel="TRANS7 HD">
+    <title lang="id">Sehat Santuy</title>
+    <desc lang="id">Sehat Santuy akan menampilkan video-video yang berisi informasi seputar dunia kesehatan dari segi olahraga, kuliner sehat, hingga healthy lifestyle.(n)</desc>
+  </programme>
+  <programme start="20210613083000 +0700" stop="20210613090000 +0700" channel="TRANS7 HD">
+    <title lang="id">Capcus</title>
+    <desc lang="id">Program dengan konsep reality show ini akan mendatangi rumah ataupun sekedar janjian di kafe untuk mengupas habis dan meminta gosip, klarifikasi serta kabar terbaru dari bintang tamu.(n)</desc>
+  </programme>
+  <programme start="20210613090000 +0700" stop="20210613093000 +0700" channel="TRANS7 HD">
+    <title lang="id">Anak Sultan</title>
+    <desc lang="id">Program realitas yang akan mengajak pemirsa melihat kehidupan dua anak selebriti papan atas Tanah Air, Rafathar Malik Ahmad dan Gempita Nora Marten.(n)</desc>
+  </programme>
+  <programme start="20210613093000 +0700" stop="20210613103000 +0700" channel="TRANS7 HD">
+    <title lang="id">Spotlite</title>
+    <desc lang="id">Spotlite menyajikan berbagai informasi, mulai dari kesehatan, makanan, gaya hidup, mode, hingga hubungan sosial.(n)</desc>
+  </programme>
+  <programme start="20210613103000 +0700" stop="20210613110000 +0700" channel="TRANS7 HD">
+    <title lang="id">Sobat Misqueen</title>
+    <desc lang="id">Mpok Alpa dan Marshel ingin sekali menjadi orang kaya. Mereka hendak berguru ke rumah para selebritas, resor, restoran, sampai hotel mewah di seluruh Indonesia. Mau tau cara jadi orang kaya? Saksikan Sobat Misqueen! -.(n)</desc>
+  </programme>
+  <programme start="20210613110000 +0700" stop="20210613120000 +0700" channel="TRANS7 HD">
+    <title lang="id">Selebrita Siang On The Weekend</title>
+    <desc lang="id">Selebrita Siang menyajikan beragam info terkini dari dunia selebritas. Dengan materi eksklusif dan sudut pandang yang tajam, inilah acara yang tepat untuk menemani hari Anda.(n)</desc>
+  </programme>
+  <programme start="20210613120000 +0700" stop="20210613123000 +0700" channel="TRANS7 HD">
+    <title lang="id">Heits Abis</title>
+    <desc lang="id">Sebuah program yang menayangkan tentang seseorang yang selalu heits Abis dalam kehidupan sehari-hari.(n)</desc>
+  </programme>
+  <programme start="20210613123000 +0700" stop="20210613130000 +0700" channel="TRANS7 HD">
+    <title lang="id">Enaknya Mantul</title>
+    <desc lang="id">Program kuliner yang mengajak kita untuk mencicipi secara langsung berbagai macam masakan dan makanan dari berbagai daerah di Indonesia dan juga mancanegara, langsung dicoba oleh Bos Kenta! - -.(n)</desc>
+  </programme>
+  <programme start="20210613130000 +0700" stop="20210613133000 +0700" channel="TRANS7 HD">
+    <title lang="id">Top Speed MotoGP</title>
+    <desc lang="id">Top Speed MotoGP adalah program acara yang akan mengulas berbagai informasi dan berita seputar pagelaran Moto GP -.(n)</desc>
+  </programme>
+  <programme start="20210613133000 +0700" stop="20210613140000 +0700" channel="TRANS7 HD">
+    <title lang="id">Rescue</title>
+    <desc lang="id">Rescue akan menghadirkan proses penyelamatan atau evakuasi yang dilakukan oleh tim SAR, Polisi, Pemadam Kebakaran, indiviual perorangan, atau lembaga lainnya.(n)</desc>
+  </programme>
+  <programme start="20210613140000 +0700" stop="20210613143000 +0700" channel="TRANS7 HD">
+    <title lang="id">Sang Penyintas</title>
+    <desc lang="id">Program ini mengangkat kisah perjuangan seorang penyintas yang mendapat kesempatan hidup kedua dari serangan penyakit berat.(n)</desc>
+  </programme>
+  <programme start="20210613143000 +0700" stop="20210613150000 +0700" channel="TRANS7 HD">
+    <title lang="id">Jejak Petualang</title>
+    <desc lang="id">Program Jejak Petualang berisi liputan yang berupa fenomena maupun hal menarik meliputi alam, kebudayaan, kearifan lokal serta explorasi yang ada di seluruh indonesia sesuai fakta.(n)</desc>
+  </programme>
+  <programme start="20210613150000 +0700" stop="20210613160000 +0700" channel="TRANS7 HD">
+    <title lang="id">Redaksi Sore Akhir Pekan</title>
+    <desc lang="id">Untuk menemani sore Anda, saksikan berbagai berita terkini dari dunia politik, ekonomi, sosial, dan budaya.(n)</desc>
+  </programme>
+  <programme start="20210613160000 +0700" stop="20210613164500 +0700" channel="TRANS7 HD">
+    <title lang="id">Jejak Si Gundul</title>
+    <desc lang="id">Program menarik ini menggabungkan segi petualangan, pengetahuan serta sisi kemanusiaan dari Heru Gundul. Ia selalu mempelajari berbagai hal dan mengunjungi tempat-tempat baru.(n)</desc>
+  </programme>
+  <programme start="20210613164500 +0700" stop="20210613171500 +0700" channel="TRANS7 HD">
+    <title lang="id">Makan Receh</title>
+    <desc lang="id">Makan enak bisa di mana saja. Biarpun menunya receh, tapi rasanya tidak recehan. Karena di sini tempatnya Makan Receh yang pasti akan membuat kita ketagihan makan! -.(n)</desc>
+  </programme>
+  <programme start="20210613171500 +0700" stop="20210613180000 +0700" channel="TRANS7 HD">
+    <title lang="id">Ari Lasso 'N Friends</title>
+    <desc lang="id">Sisi lain dari sang musisi legenda tanah air dan kedekatannya dengan banyak kalangan akan diceritakan dalam 'ARI LASSO N FRIENDS'.(n)</desc>
+  </programme>
+  <programme start="20210613180000 +0700" stop="20210613190000 +0700" channel="TRANS7 HD">
+    <title lang="id">On The Spot</title>
+    <desc lang="id">On The Spot adalah program informatif yang menayangkan berbagai hal unik dengan disertai penjelasan ringan.(n)</desc>
+  </programme>
+  <programme start="20210613190000 +0700" stop="20210613200000 +0700" channel="TRANS7 HD">
+    <title lang="id">The Police</title>
+    <desc lang="id">The Police merupakan tontonan yang segar dan dapat memacu adrenaline. Memperlihatkan pekerjaan polisi Indonesia mulai dari kegiatan yang ringan, seperti mendisiplinkan pengguna lalu lintas, sampai kasus berat.(n)</desc>
+  </programme>
+  <programme start="20210613200000 +0700" stop="20210613213000 +0700" channel="TRANS7 HD">
+    <title lang="id">Opera Van Java</title>
+    <desc lang="id">Pertunjukan komedi yang dibawakan Wayang orang versi modern. Lakon diadaptasi dari cerita rakyat Indonesia yang dimodifikasi, tentang karier seseorang yang terkenal, cerita rekaan, kisah misteri, cerita dari negara lain atau cerita yang sedang populer.(n)</desc>
+  </programme>
+  <programme start="20210613213000 +0700" stop="20210613223000 +0700" channel="TRANS7 HD">
+    <title lang="id">OOTD</title>
+    <sub-title lang="id">Obrolan Of The Day</sub-title>
+    <desc lang="id">OOTD adalah talkshow yang membahas isu terkini dan kontroversial secara ringan dan seru. Acara ini dibawakan oleh Deddy Corbuzier dan Ivan Gunawan.(n)</desc>
+  </programme>
+  <programme start="20210613223000 +0700" stop="20210613233000 +0700" channel="TRANS7 HD">
+    <title lang="id">Lapor Pak!</title>
+    <desc lang="id">Lapor Pak! akan dikemas melalui sketsa dan talkshow dengan latar belakang kantor polisi yang mengkomedikan kasus-kasus kriminal.(n)</desc>
+  </programme>
+  <programme start="20210613233000 +0700" stop="20210614003000 +0700" channel="TRANS7 HD">
+    <title lang="id">MotoGP 2021</title>
+    <desc lang="id">MotoGp Live adalah  tayangan program yang menayangkan secara langsung tentang seputar pertandingan moto GP.(n)</desc>
+  </programme>
+  <programme start="20210614003000 +0700" stop="20210614023000 +0700" channel="TRANS7 HD">
+    <title lang="id">K-Movievaganza</title>
+    <sub-title lang="id">The Bad Guys: Reign Of Chaos</sub-title>
+    <desc lang="id">K-Movievaganza adalah Program acara layar lebar yang menghadirkan sederet film ternama produksi dalam dan luar negeri yang akan memeriahkan malam hari Anda dengan menghadirkan tontonan yang mengasyikan.(n)</desc>
+  </programme>
+  <programme start="20210614023000 +0700" stop="20210614040000 +0700" channel="TRANS7 HD">
+    <title lang="id">Theater</title>
+    <sub-title lang="id">Kite</sub-title>
+    <desc lang="id">Theater Malam adalah film layar lebar yang menghadirkan sederet film ternama produksi dalam dan luar negeri yang akan memeriahkan malam hari Anda dengan menghadirkan tontonan yang mengasyikan.(n)</desc>
+  </programme>
+  <programme start="20210614040000 +0700" stop="20210614043000 +0700" channel="TRANS7 HD">
+    <title lang="id">Kingdom Force</title>
+    <desc lang="id">Program seria animasi yang mengisahkan petualangan seru superhero.(n)</desc>
+  </programme>
+  <programme start="20210614043000 +0700" stop="20210614050000 +0700" channel="TRANS7 HD">
+    <title lang="id">Panda Pet Vet</title>
+    <desc lang="id">Berbagai animasi yang sudah sangat familiar di kalangan anak-anak akan menyajikan berbagai kisah petualangan yang seru dan lucu.(n)</desc>
+  </programme>
+  <programme start="20210614050000 +0700" stop="20210614053000 +0700" channel="TRANS7 HD">
+    <title lang="id">Kisah Para Nabi</title>
+    <desc lang="id">Program serial animasi yang mengisahkan tentang para Nabi. Diceritakan dengan narasi dan lengkap dengan ayat-ayat.(n)</desc>
+  </programme>
+  <programme start="20210614053000 +0700" stop="20210614060000 +0700" channel="TRANS7 HD">
+    <title lang="id">Cahaya Pagi</title>
+  </programme>
+  <programme start="20210614060000 +0700" stop="20210614070000 +0700" channel="TRANS7 HD">
+    <title lang="id">Redaksi Pagi</title>
+    <desc lang="id">Redaksi Pagi adalah program berita yang mencakup berita, politik, ekonomi, sosial, teknologi, hiburan serta berbagai peristiwa menarik lainnya yang terjadi dari dalam dan luar negeri.(n)</desc>
+  </programme>
+  <programme start="20210614070000 +0700" stop="20210614073000 +0700" channel="TRANS7 HD">
+    <title lang="id">Ragam Indonesia</title>
+    <desc lang="id">Ragam Indonesia adalah program acara tentang keanekaragaman yang ada di indonesia mulai dari tempat wisata,kuliner dan sejarah serta beragam potensi alam lainnya yang sangat informatif .(n)</desc>
+  </programme>
+  <programme start="20210614073000 +0700" stop="20210614080000 +0700" channel="TRANS7 HD">
+    <title lang="id">Selebrita Pagi</title>
+    <desc lang="id">Selebrita Pagi menyajikan beragam info terkini dari dunia selebritas. Dengan materi eksklusif dan sudut pandang yang tajam, inilah acara yang tepat untuk menemani pagi Anda.(n)</desc>
+  </programme>
+  <programme start="20210614080000 +0700" stop="20210614083000 +0700" channel="TRANS7 HD">
+    <title lang="id">Trending</title>
+    <desc lang="id">Trending merupakan program yang menayangkan berbagai kejadian yang tengah marak di media sosial.(n)</desc>
+  </programme>
+  <programme start="20210614083000 +0700" stop="20210614093000 +0700" channel="TRANS7 HD">
+    <title lang="id">Inline</title>
+    <desc lang="id">Program ini berisi informasi kekinian yang sedang hangat diperbincangkan masyarakat, berupa fenomena tak biasa ataupun aksi humanis.(n)</desc>
+  </programme>
+  <programme start="20210614093000 +0700" stop="20210614100000 +0700" channel="TRANS7 HD">
+    <title lang="id">Warga +62</title>
+    <desc lang="id">Warga +62 hadir sebagai bentuk kepekaan TRANS7 dalam merespon maraknya tren penyebaran video/momen lucu -dikenal pula sebagai video receh khas penduduk Indonesia yang tersebar di sosial media.(n)</desc>
+  </programme>
+  <programme start="20210614100000 +0700" stop="20210614104500 +0700" channel="TRANS7 HD">
+    <title lang="id">Selebrita Siang</title>
+    <desc lang="id">Selebrita Siang menyajikan beragam info terkini dari dunia selebritas. Dengan materi eksklusif dan sudut pandang yang tajam, inilah acara yang tepat untuk menemani hari Anda.(n)</desc>
+  </programme>
+  <programme start="20210614104500 +0700" stop="20210614113000 +0700" channel="TRANS7 HD">
+    <title lang="id">Redaksi Siang</title>
+    <desc lang="id">Redaksi Siang menghadirkan berbagai berita utama dan topik pilihan yang dikemas secara lengkap, serta segmen dialog dengan narasumber terpercaya.(n)</desc>
+  </programme>
+  <programme start="20210614113000 +0700" stop="20210614120000 +0700" channel="TRANS7 HD">
+    <title lang="id">Si Unyil</title>
+    <desc lang="id">Si Unyil akan mengeksplor tentang ilmu pengetahuan yang akan memicu rasa ingin tahu dan menggugah kreativitas teman-teman kecil kita.(n)</desc>
+  </programme>
+  <programme start="20210614120000 +0700" stop="20210614123000 +0700" channel="TRANS7 HD">
+    <title lang="id">Bocah Petualang</title>
+    <desc lang="id">Si Bolang akan mengajak teman-teman cilik ke berbagai tempat di tanah air untuk melihat adat istiadat dan kebiasaan masyarakat.(n)</desc>
+  </programme>
+  <programme start="20210614123000 +0700" stop="20210614130000 +0700" channel="TRANS7 HD">
+    <title lang="id">Si Otan</title>
+    <desc lang="id">Si Otan hadir untuk menghibur sekaligus memberikan edukasi tentang dunia binatang.Tentunya, Otan juga ditemani oleh Dolpino untuk menambah keseruan pemirsa di rumah.(n)</desc>
+  </programme>
+  <programme start="20210614130000 +0700" stop="20210614134500 +0700" channel="TRANS7 HD">
+    <title lang="id">Indonesiaku</title>
+    <desc lang="id">Indonesiaku menceritakan tentang perjalanan yang menelusuri daerah-daerah terpencil di Indonesia, yang bertujuan untuk menunjukkan kepada masyarakat bagaimanakah sesungguhnya realita sosial yang ada di daerah tersebut.(n)</desc>
+  </programme>
+  <programme start="20210614134500 +0700" stop="20210614144500 +0700" channel="TRANS7 HD">
+    <title lang="id">Redaksi</title>
+    <desc lang="id">Untuk menemani sore Anda, saksikan berbagai berita terkini dari dunia politik, ekonomi, sosial, dan budaya.(n)</desc>
+  </programme>
+  <programme start="20210614144500 +0700" stop="20210614153000 +0700" channel="TRANS7 HD">
+    <title lang="id">Selebrita Expose</title>
+    <desc lang="id">Ingin selalu mengetahui kabar terbaru dari selebritas favorit Anda? Saksikan terus Selebrita Expose! -.(n)</desc>
+  </programme>
+  <programme start="20210614153000 +0700" stop="20210614161500 +0700" channel="TRANS7 HD">
+    <title lang="id">Jejak Si Gundul</title>
+    <desc lang="id">Program menarik ini menggabungkan segi petualangan, pengetahuan serta sisi kemanusiaan dari Heru Gundul. Ia selalu mempelajari berbagai hal dan mengunjungi tempat-tempat baru.(n)</desc>
+  </programme>
+  <programme start="20210614161500 +0700" stop="20210614170000 +0700" channel="TRANS7 HD">
+    <title lang="id">Makan Receh</title>
+    <desc lang="id">Makan enak bisa di mana saja. Biarpun menunya receh, tapi rasanya tidak recehan. Karena di sini tempatnya Makan Receh yang pasti akan membuat kita ketagihan makan! -.(n)</desc>
+  </programme>
+  <programme start="20210614170000 +0700" stop="20210614180000 +0700" channel="TRANS7 HD">
+    <title lang="id">Pas Sore</title>
+    <desc lang="id">Pas Sore program Variety Comedy ini dikemas dengan balutan sketsa. Berlatar belakang suasana kantor masa kini dengan berbagai kondisi dan konflik di dalamnya dalam perspektif komedi.(n)</desc>
+  </programme>
+  <programme start="20210614180000 +0700" stop="20210614190000 +0700" channel="TRANS7 HD">
+    <title lang="id">On The Spot</title>
+    <desc lang="id">On The Spot adalah program informatif yang menayangkan berbagai hal unik dengan disertai penjelasan ringan.(n)</desc>
+  </programme>
+  <programme start="20210614190000 +0700" stop="20210614200000 +0700" channel="TRANS7 HD">
+    <title lang="id">The Police</title>
+    <desc lang="id">The Police merupakan tontonan yang segar dan dapat memacu adrenaline. Memperlihatkan pekerjaan polisi Indonesia mulai dari kegiatan yang ringan, seperti mendisiplinkan pengguna lalu lintas, sampai kasus berat.(n)</desc>
+  </programme>
+  <programme start="20210614200000 +0700" stop="20210614213000 +0700" channel="TRANS7 HD">
+    <title lang="id">Opera Van Java</title>
+    <desc lang="id">Pertunjukan komedi yang dibawakan Wayang orang versi modern. Lakon diadaptasi dari cerita rakyat Indonesia yang dimodifikasi, tentang karier seseorang yang terkenal, cerita rekaan, kisah misteri, cerita dari negara lain atau cerita yang sedang populer.(n)</desc>
+  </programme>
+  <programme start="20210614213000 +0700" stop="20210614223000 +0700" channel="TRANS7 HD">
+    <title lang="id">Lapor Pak!</title>
+    <desc lang="id">Lapor Pak! akan dikemas melalui sketsa dan talkshow dengan latar belakang kantor polisi yang mengkomedikan kasus-kasus kriminal.(n)</desc>
+  </programme>
+</tv>
