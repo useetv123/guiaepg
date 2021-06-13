@@ -1,146 +1,111 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.7.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="HBO HD">
-    <display-name lang="id">HBO HD</display-name>
-    <icon src="http://www.transvision.co.id/images/channel/hbo.png" />
+  <channel id="FOX Action Movies HD">
+    <display-name lang="id">FOX Action Movies HD</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/fam_new.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
-  <programme start="20210613002500 +0700" stop="20210613014500 +0700" channel="HBO HD">
-    <title lang="id">Like A Boss</title>
-    <desc lang="id">Dua teman wanita dengan idealisme yang berbeda memutuskan untuk mendirikan perusahaan kecantikan bersama. Salah satunya bersifat praktis, sementara yang satunya ingin mencari uang agar bisa hidup mewah.(n)</desc>
+  <programme start="20210613011000 +0700" stop="20210613023500 +0700" channel="FOX Action Movies HD">
+    <title lang="id">Paranormal Activity</title>
+    <sub-title lang="id">The Marked Ones</sub-title>
+    <desc lang="id">Saat seorang pemuda diincar oleh makhluk gaib yang jahat, dia harus tahu apa tujuannya sebelum makhluk itu mengendalikan dirinya.(n)</desc>
   </programme>
-  <programme start="20210613014500 +0700" stop="20210613031000 +0700" channel="HBO HD">
-    <title lang="id">Shutter</title>
-    <desc lang="id">Pasangan suami istri yang baru menikah melihat penampakan-penampakan hantu mengerikan dalam foto-foto yang mereka ambil setelah mereka mengalami kecelakaan yang mengerikan dan mereka yakin telah menabrak seorang wanita muda dengan mobil.(n)</desc>
+  <programme start="20210613023500 +0700" stop="20210613040500 +0700" channel="FOX Action Movies HD">
+    <title lang="id">I'll Take Your Dead</title>
+    <desc lang="id">William punya pekerjaan sederhana, yaitu menyingkirkan mayat. Suatu hari, William menyadari bahwa wanita yang dibuang di sebuah rumah sebenarnya belum tewas.(n)</desc>
   </programme>
-  <programme start="20210613031000 +0700" stop="20210613043000 +0700" channel="HBO HD">
-    <title lang="id">Open Water</title>
-    <desc lang="id">Susan dan Daniel sedang melakukan wisata penyelaman. Mereka tak sengaja tertinggal rombongan karena kesalahan penghitungan. Mereka pun harus berjuang bertahan hidup di tengah perairan yang penuh hiu.(n)</desc>
+  <programme start="20210613040500 +0700" stop="20210613060500 +0700" channel="FOX Action Movies HD">
+    <title lang="id">Paycheck</title>
+    <desc lang="id">Berlatar belakang di masa depan, ingatan seorang teknisi komputer telah dihapus dan sekarang dia harus berusaha mencari identitasnya yang sebenarnya dengan menggunakan beberapa benda yang tampak tidak saling berkaitan.(n)</desc>
   </programme>
-  <programme start="20210613043000 +0700" stop="20210613061000 +0700" channel="HBO HD">
-    <title lang="id">Zathura</title>
-    <sub-title lang="id">A Space Adventure</sub-title>
-    <desc lang="id">Dua saudara tertarik pada petualangan antargalaksi saat rumah mereka secara ajaib terlempar ke luar angkasa.(n)</desc>
+  <programme start="20210613060500 +0700" stop="20210613075000 +0700" channel="FOX Action Movies HD">
+    <title lang="id">The Corrupted</title>
+    <desc lang="id">Seorang mantan narapidana mencoba untuk memenangkan kembali cinta dan kepercayaan dari keluarganya, tetapi ia malah terjebak dalam jaringan konspirasi, kejahatan, dan korupsi.(n)</desc>
   </programme>
-  <programme start="20210613061000 +0700" stop="20210613073500 +0700" channel="HBO HD">
-    <title lang="id">The Spongebob Squarepants Movie</title>
-    <desc lang="id">Spongebob Squarepants meninggalkan Bikini Bottom untuk melacak mahkota King Neptune yang dicuri dan menyelamatkan Mr. Krabs dari hukuman mati.(n)</desc>
+  <programme start="20210613075000 +0700" stop="20210613092500 +0700" channel="FOX Action Movies HD">
+    <title lang="id">Sniper 3</title>
+    <desc lang="id">Seorang penembak jitu tercakap Korps Marinir AS harus menghadapi musuh terbesarnya, yaitu sahabatnya sendiri.(n)</desc>
   </programme>
-  <programme start="20210613073500 +0700" stop="20210613080500 +0700" channel="HBO HD">
-    <title lang="id">Hollywood On Set</title>
-    <desc lang="id">Lihat di balik layar tiga film utama per minggu - cuplikan aksi dan wawancara dengan aktor dan pembuat film.(n)</desc>
-    <episode-num system="onscreen">S1</episode-num>
+  <programme start="20210613092500 +0700" stop="20210613120000 +0700" channel="FOX Action Movies HD">
+    <title lang="id">Transformers</title>
+    <sub-title lang="id">The Last Knight</sub-title>
+    <desc lang="id">Bagaimana jadinya ketika pahlawan terhebat di dunia menjadi musuh paling ganas? Saksikan saat Optimus Prime meluncurkan misi untuk menyelamatkan Cybertron dengan cara menghancurkan Bumi.(n)</desc>
   </programme>
-  <programme start="20210613080500 +0700" stop="20210613093000 +0700" channel="HBO HD">
-    <title lang="id">Johnny English</title>
-    <desc lang="id">Johnny English yang tidak kompeten berusaha menghentikan rencana seorang penjahat untuk mencuri Permata Mahkota yang sedang berada dalam pengawasannya.(n)</desc>
+  <programme start="20210613120000 +0700" stop="20210613134500 +0700" channel="FOX Action Movies HD">
+    <title lang="id">I Still Know What You Did Last Summer</title>
+    <desc lang="id">Sang nelayan pembunuh kembali menguntit dua remaja yang tersisa, Julie dan Ray, yang pernah meninggalkannya hingga tewas. Aksinya menyebabkan lebih banyak lagi pembunuhan dan kekacauan, kali ini di resor mewah di sebuah pulau.(n)</desc>
   </programme>
-  <programme start="20210613093000 +0700" stop="20210613110000 +0700" channel="HBO HD">
-    <title lang="id">Priest</title>
-    <desc lang="id">Seorang pendeta ksatria melanggar hukum gereja karena bekerja sama dengan sheriff muda dan biarawati muda untuk melacak sekawanan vampir yang menculik keponakannya.(n)</desc>
+  <programme start="20210613134500 +0700" stop="20210613152500 +0700" channel="FOX Action Movies HD">
+    <title lang="id">The Golem</title>
+    <desc lang="id">Di tengah wabah mematikan, seorang wanita muda harus menyelamatkan komunitas Yahudinya dari para penyerang. Beralih ke bantuan dari dunia mistis Yahudi, dia memanggil sesosok entitas berbahaya untuk perlindungan.(n)</desc>
   </programme>
-  <programme start="20210613110000 +0700" stop="20210613123500 +0700" channel="HBO HD">
-    <title lang="id">R.I.P.D.</title>
-    <desc lang="id">Seorang polisi Chicago yang baru saja dibunuh bekerja dengan kepolisian surga untuk melacak pelaku yang membunuhnya.(n)</desc>
+  <programme start="20210613152500 +0700" stop="20210613170000 +0700" channel="FOX Action Movies HD">
+    <title lang="id">Polaroid</title>
+    <desc lang="id">Bird Fitcher tak tahu rahasia kelam yang ada di balik kamera Polaroid misterus yang ditemukannya, tapi dia tak butuh waktu lama untuk mengetahui bahwa mereka yang difoto dengan kamera itu akan berakhir mengenaskan.(n)</desc>
   </programme>
-  <programme start="20210613123500 +0700" stop="20210613140000 +0700" channel="HBO HD">
-    <title lang="id">The Secret Life Of Pets 2</title>
-    <desc lang="id">Max si anjing terrier bertemu dengan sapi yang tidak toleran terhadap anjing, rubah yang galak dan seekor kalkun yang menakutkan ketika ia mengunjungi pedesaan.(n)</desc>
+  <programme start="20210613170000 +0700" stop="20210613185500 +0700" channel="FOX Action Movies HD">
+    <title lang="id">Into the Blue</title>
+    <desc lang="id">Empat orang penyelam muda menemukan bangkai kapal karam yang konon menyimpan harta karun emas senilai jutaan dolar, namun segalanya tidak berjalan sesuai harapan ketika mereka mendapat ancaman dari para penyelundup.(n)</desc>
   </programme>
-  <programme start="20210613140000 +0700" stop="20210613154000 +0700" channel="HBO HD">
-    <title lang="id">Dolittle</title>
-    <desc lang="id">Dalam film fantasi petualangan ini, Robert Downey Jr. Memerankan dokter hewan yang bisa bicara kepada para satwa.(n)</desc>
+  <programme start="20210613185500 +0700" stop="20210613210000 +0700" channel="FOX Action Movies HD">
+    <title lang="id">Mystery Men</title>
+    <desc lang="id">Sekelompok pahlawan super amatir yang aneh harus berjuang untuk menyelamatkan kota ketika seorang penjahat mengancam akan menghancurkan pahlawan super terhebat di kota tersebut.(n)</desc>
   </programme>
-  <programme start="20210613154000 +0700" stop="20210613180500 +0700" channel="HBO HD">
-    <title lang="id">Tenet</title>
-    <desc lang="id">Berbekal hanya satu kata -Tenet- dan berjuang untuk kelangsungan hidup seluruh dunia, Protagonis melakukan perjalanan melalui dunia spionase internasional yang mulai redup.(n)</desc>
+  <programme start="20210613210000 +0700" stop="20210613223000 +0700" channel="FOX Action Movies HD">
+    <title lang="id">Don't Look Back - 2020</title>
+    <desc lang="id">Beberapa orang menyaksikan seorang pria diserang secara fatal dan tidak ikut campur, tetapi segera mendapati diri mereka menjadi sasaran seseorang, atau sesuatu, untuk membalas dendam.(n)</desc>
   </programme>
-  <programme start="20210613180500 +0700" stop="20210613200000 +0700" channel="HBO HD">
-    <title lang="id">Gemini Man</title>
-    <desc lang="id">Seorang mantan pembunuh bayaran terpaksa kabur dan berhadapan dengan musuh terberatnya: kloning dirinya yang lebih muda.(n)</desc>
+  <programme start="20210613223000 +0700" stop="20210614003000 +0700" channel="FOX Action Movies HD">
+    <title lang="id">Jaws 2</title>
+    <desc lang="id">Hiu Putih Besar raksasa lainnya meneror para pengunjung pantai dalam sekuel film blockbuster Steven Spielberg ini.(n)</desc>
   </programme>
-  <programme start="20210613200000 +0700" stop="20210613204400 +0700" channel="HBO HD">
-    <title lang="id">Trinity Of Shadows</title>
-    <desc lang="id">Serial ini berkisah tentang penyelidikan sebuah kasus pembunuhan yang memiliki kesamaan dengan kasus yang ditangguhkan dari tiga tahun yang lalu.(n)</desc>
-    <episode-num system="onscreen">S1</episode-num>
+  <programme start="20210614003000 +0700" stop="20210614020500 +0700" channel="FOX Action Movies HD">
+    <title lang="id">Paranormal Activity</title>
+    <sub-title lang="id">The Ghost Dimension</sub-title>
+    <desc lang="id">Dengan kamera spesial yang bisa menangkap keberadaan arwah, sebuah keluarga harus melindungi putri mereka dari arwah jahat dengan rencana mengerikan.(n)</desc>
   </programme>
-  <programme start="20210613204400 +0700" stop="20210613213000 +0700" channel="HBO HD">
-    <title lang="id">Trinity Of Shadows</title>
-    <desc lang="id">Serial ini berkisah tentang penyelidikan sebuah kasus pembunuhan yang memiliki kesamaan dengan kasus yang ditangguhkan dari tiga tahun yang lalu.(n)</desc>
-    <episode-num system="onscreen">S1</episode-num>
+  <programme start="20210614020500 +0700" stop="20210614034500 +0700" channel="FOX Action Movies HD">
+    <title lang="id">Blood Vessel</title>
+    <desc lang="id">Para penyintas yang terdampar di kapal medis yang mengalami serangan torpedo berlindung di sebuah kapal tak berawak, tapi ternyata di dalamnya ada zombi dan vampir pengisap darah.(n)</desc>
   </programme>
-  <programme start="20210613213000 +0700" stop="20210613232500 +0700" channel="HBO HD">
-    <title lang="id">1917</title>
-    <desc lang="id">Di puncak Perang Dunia I, dua pasukan Inggris muda harus berlomba dengan waktu untuk melintasi perbatasan wilayah musuh dan mengantarkan pesan yang akan menghentikan sebuah serangan mematikan.(n)</desc>
+  <programme start="20210614034500 +0700" stop="20210614052000 +0700" channel="FOX Action Movies HD">
+    <title lang="id">Malevolent</title>
+    <desc lang="id">Sekawanan penipu kewalahan ketika sebuah pekerjaan di sebuah bangunan berhantu menjadi kacau balau.(n)</desc>
   </programme>
-  <programme start="20210613232500 +0700" stop="20210614011000 +0700" channel="HBO HD">
-    <title lang="id">Hustlers</title>
-    <desc lang="id">Terinspirasi dari artikel New York Magazine article, 'Hustlers' mengisahkan sekelompok mantan pegawai kelab tari bugil yang bersatu untuk membalik nasib para klien konglomerat mereka.(n)</desc>
+  <programme start="20210614052000 +0700" stop="20210614070000 +0700" channel="FOX Action Movies HD">
+    <title lang="id">D-Tox</title>
+    <desc lang="id">Seorang detektif alkoholik dikirim ke klinik detoks di tempat terpencil setelah seorang pembunuh berantai menargetkan teman dan keluarganya.(n)</desc>
   </programme>
-  <programme start="20210614011000 +0700" stop="20210614023500 +0700" channel="HBO HD">
-    <title lang="id">Crank</title>
-    <desc lang="id">Chev, seorang pembunuh bayaran, disuntik dengan serum yang mengharuskannya untuk selalu menjaga level adrenalinnya tetap tinggi agar bisa bertahan hidup.(n)</desc>
+  <programme start="20210614070000 +0700" stop="20210614083000 +0700" channel="FOX Action Movies HD">
+    <title lang="id">Darken</title>
+    <desc lang="id">Di sebuah dunia paralel, para penduduk dilindungi sesosok entitas altruistik bernama Mother Darken. Ketika orang asing masuk, dia menjadi terlibat dalam pertempuran penuh darah.(n)</desc>
   </programme>
-  <programme start="20210614023500 +0700" stop="20210614044500 +0700" channel="HBO HD">
-    <title lang="id">Fight Club</title>
-    <desc lang="id">Seorang pengusaha muda berteman dengan penjual sabun sosiopat yang mengelola sebuah organisasi bawah tanah Fight Club. Sebuah klub di mana para pria terlibat dalam pertarungan tanpa batasan aturan.(n)</desc>
+  <programme start="20210614083000 +0700" stop="20210614100500 +0700" channel="FOX Action Movies HD">
+    <title lang="id">Death Fighter</title>
+    <desc lang="id">Seorang polisi Amerika dan setim prajurit bayaran Thailand bekerja sama untuk mengalahkan pelaku kejahatan yang sangat kejam.(n)</desc>
   </programme>
-  <programme start="20210614044500 +0700" stop="20210614060500 +0700" channel="HBO HD">
-    <title lang="id">Batman</title>
-    <sub-title lang="id">Hush</sub-title>
-    <desc lang="id">Ketika masa lalu Batman mulai terungkap, sang Ksatria Kegelapan harus segera memecahkan permainan mematikan Hush.(n)</desc>
+  <programme start="20210614100500 +0700" stop="20210614114000 +0700" channel="FOX Action Movies HD">
+    <title lang="id">Ultraviolet</title>
+    <desc lang="id">Seorang wanita cantik harus melindungi seorang anak laki-laki di dunia masa depan, karena anak tersebut mungkin merupakan kunci untuk segalanya.(n)</desc>
   </programme>
-  <programme start="20210614060500 +0700" stop="20210614073500 +0700" channel="HBO HD">
-    <title lang="id">Aeonflux</title>
-    <desc lang="id">Aeon Flux, seorang pembunuh profesional yang bekerja untuk bangsa Monican, sekelompok pemberontak yang berusaha menggulingkan pemerintah. Saat dia dikirim untuk membunuh sang Chairman, terungkaplah sebuah misteri baru.(n)</desc>
+  <programme start="20210614114000 +0700" stop="20210614134000 +0700" channel="FOX Action Movies HD">
+    <title lang="id">Paycheck</title>
+    <desc lang="id">Berlatar belakang di masa depan, ingatan seorang teknisi komputer telah dihapus dan sekarang dia harus berusaha mencari identitasnya yang sebenarnya dengan menggunakan beberapa benda yang tampak tidak saling berkaitan.(n)</desc>
   </programme>
-  <programme start="20210614073500 +0700" stop="20210614090500 +0700" channel="HBO HD">
-    <title lang="id">Anaconda</title>
-    <desc lang="id">Satu tim kru film harus berjuang bertahan hidup ketika mereka memasuki wilayah mematikan nan berbahaya dari salah satu ular terbesar di dunia.(n)</desc>
+  <programme start="20210614134000 +0700" stop="20210614162000 +0700" channel="FOX Action Movies HD">
+    <title lang="id">Dragged Across Concrete</title>
+    <desc lang="id">Ketika dua polisi yang terlalu bersemangat diskors dari tugas, mereka harus menyelediki kehidupan kriminal agar mendapatkan kompensasi yang layak.(n)</desc>
   </programme>
-  <programme start="20210614090500 +0700" stop="20210614094900 +0700" channel="HBO HD">
-    <title lang="id">Trinity Of Shadows</title>
-    <desc lang="id">Serial ini berkisah tentang penyelidikan sebuah kasus pembunuhan yang memiliki kesamaan dengan kasus yang ditangguhkan dari tiga tahun yang lalu.(n)</desc>
-    <episode-num system="onscreen">S1</episode-num>
+  <programme start="20210614162000 +0700" stop="20210614175000 +0700" channel="FOX Action Movies HD">
+    <title lang="id">Aladdin And The Death Lamp</title>
+    <desc lang="id">Aladdin dan temannya, Ali, tak sengaja menemukan lampu wasiat dengan jin di dalamnya, tapi alih-alih mengabulkan permintaan, jin itu memiliki rencana lain.(n)</desc>
   </programme>
-  <programme start="20210614094900 +0700" stop="20210614103500 +0700" channel="HBO HD">
-    <title lang="id">Trinity Of Shadows</title>
-    <desc lang="id">Serial ini berkisah tentang penyelidikan sebuah kasus pembunuhan yang memiliki kesamaan dengan kasus yang ditangguhkan dari tiga tahun yang lalu.(n)</desc>
-    <episode-num system="onscreen">S1</episode-num>
+  <programme start="20210614175000 +0700" stop="20210614193000 +0700" channel="FOX Action Movies HD">
+    <title lang="id">Primal</title>
+    <desc lang="id">Seorang pemburu harus berjuang untuk hidupnya di atas kapal ketika hewannya yang buas dilepaskan oleh penjahat berbahaya untuk membunuh semua orang di dalam kapal itu.(n)</desc>
   </programme>
-  <programme start="20210614103500 +0700" stop="20210614121500 +0700" channel="HBO HD">
-    <title lang="id">Dolittle</title>
-    <desc lang="id">Dalam film fantasi petualangan ini, Robert Downey Jr. Memerankan dokter hewan yang bisa bicara kepada para satwa.(n)</desc>
-  </programme>
-  <programme start="20210614121500 +0700" stop="20210614141500 +0700" channel="HBO HD">
-    <title lang="id">1917</title>
-    <desc lang="id">Di puncak Perang Dunia I, dua pasukan Inggris muda harus berlomba dengan waktu untuk melintasi perbatasan wilayah musuh dan mengantarkan pesan yang akan menghentikan sebuah serangan mematikan.(n)</desc>
-  </programme>
-  <programme start="20210614141500 +0700" stop="20210614155000 +0700" channel="HBO HD">
-    <title lang="id">Human Capital</title>
-    <desc lang="id">Kehidupan dua keluarga yang berbeda beradu ketika anak-anak mereka memulai hubungan yang berujung pada kecelakaan tragis.(n)</desc>
-  </programme>
-  <programme start="20210614155000 +0700" stop="20210614172000 +0700" channel="HBO HD">
-    <title lang="id">Alvin And The Chipmunks</title>
-    <desc lang="id">Seorang penulis lagu bernama Dave Seville mendapatkan kesuksesan saat menemukan tiga tupai tanah yang bisa bernyanyi: sang pemimpin yang nakal Alvin, Simon yang cerdas, dan Theodore yang tambun serta mudah terpengaruh.(n)</desc>
-  </programme>
-  <programme start="20210614172000 +0700" stop="20210614184500 +0700" channel="HBO HD">
-    <title lang="id">Alvin And The Chipmunks</title>
-    <sub-title lang="id">The Squeakquel</sub-title>
-    <desc lang="id">Setelah insiden buruk saat konser, para chipmunk menarik diri dari panggung hiburan dan pergi bersekolah untuk bergaul dengan anak-anak seusia mereka.(n)</desc>
-  </programme>
-  <programme start="20210614184500 +0700" stop="20210614210000 +0700" channel="HBO HD">
-    <title lang="id">Just Mercy</title>
-    <desc lang="id">Diangkat dari kisah nyata, film ini menceritakan pengacara muda, Bryan Stevenson, yang pergi ke Alabama untuk melindungi mereka yang tak mampu menyewa pengacara atau yang didera dakwaan palsu meski bekerja secara terhormat.(n)</desc>
-  </programme>
-  <programme start="20210614210000 +0700" stop="20210614212500 +0700" channel="HBO HD">
-    <title lang="id">In Treatment</title>
-    <desc lang="id">Penataan ulang series ini berlatar di Los Angeles modern dan menghadirkan trio pasien yang beragam dalam sesi dengan terapis Dr. Brooke untuk membantu mengatasi berbagai masalah modern.(n)</desc>
-    <episode-num system="onscreen">S4</episode-num>
-  </programme>
-  <programme start="20210614212500 +0700" stop="20210614215500 +0700" channel="HBO HD">
-    <title lang="id">In Treatment</title>
-    <desc lang="id">Penataan ulang series ini berlatar di Los Angeles modern dan menghadirkan trio pasien yang beragam dalam sesi dengan terapis Dr. Brooke untuk membantu mengatasi berbagai masalah modern.(n)</desc>
-    <episode-num system="onscreen">S4</episode-num>
+  <programme start="20210614193000 +0700" stop="20210614210000 +0700" channel="FOX Action Movies HD">
+    <title lang="id">Don't Look Back - 2020</title>
+    <desc lang="id">Beberapa orang menyaksikan seorang pria diserang secara fatal dan tidak ikut campur, tetapi segera mendapati diri mereka menjadi sasaran seseorang, atau sesuatu, untuk membalas dendam.(n)</desc>
   </programme>
 </tv>
